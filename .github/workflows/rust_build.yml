@@ -21,11 +21,11 @@ jobs:
 
     - name: Build optimized binary
       run: cargo build --release
-      working-directory: my_project  # Specify the subdirectory here
+      working-directory: my_project  
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
         name: my_project_binary
         path: my_project/target/release/
-      working-directory: my_project  # Specify the subdirectory here
+      working-directory: my_project  
