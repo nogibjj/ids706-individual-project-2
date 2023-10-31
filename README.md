@@ -1,6 +1,6 @@
 # Rust CLI Binary with SQLite
 
-![Rust CLI](https://github.com/nogibjj/ids706-individual-project-2/blob/main/.github/workflows/rust_build.yml/badge.svg)
+![Rust CLI](https://github.com/nogibjj/ids706-individual-project-2/actions/workflows/rust_build.yml/badge.svg)
 
 ## 🛠️ <u>Rust</u> Source Code
 
