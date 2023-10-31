@@ -24,7 +24,7 @@ pub fn read_items() -> Result<()> {
     let conn = Connection::open("my_database.db")?;
     let mut stmt = conn.prepare("SELECT id, name FROM items")?;
     let items_iter = stmt.query_map([], |row| {
-        Ok((row.get(0)?, row.get(1)?))
+        Ok((row.get::<_, i32>(0)?, row.get::<_, String>(1)?))
     })?;
 
     for item in items_iter {
