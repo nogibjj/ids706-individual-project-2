@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Usage of <u>Github CoPilot</u>
 
-### <u><b>Using GitHub Copilot in `main.rs`:</b></u>
+#### <u><b>Using GitHub Copilot in `main.rs`:</b></u>
 
 <b>1. Enhancing Error Handling:</b><br>
   <i>Scenario:</i> Encountered challenges in robust error handling for database connections and operations.<br>
@@ -20,7 +20,7 @@
   <i>With Copilot:</i> Provided a cleaner and more organized way to structure function calls from the `database.rs` module, enhancing readability and maintainability. <br><br>
 
 
-### <u><b>Using GitHub Copilot in `database.rs`:</b></u>
+#### <u><b>Using GitHub Copilot in `database.rs`:</b></u>
 
 <b>1. Structuring CRUD Operations:</b><br>
   <i>Scenario:</i> Uncertain about the optimal structure and best practices for CRUD functions with SQLite in Rust.<br>
