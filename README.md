@@ -7,7 +7,7 @@
 
 
 ## Usage of <u>Github CoPilot</u>
-Using GitHub Copilot in ``main.rs``:<br>
+<b>Using GitHub Copilot in ``main.rs``:</b><br>
 
 1. Enhancing Error Handling:<br>
 Scenario: Faced difficulties in implementing robust error handling for database connections and operations.<br>
@@ -18,7 +18,7 @@ Scenario: Needed a more streamlined and efficient way to structure calls to CRUD
 With Copilot: Copilot provided a cleaner and more organized way to structure function calls from the database.rs module, enhancing both readability and maintainability.<br><br>
 
 
-Using GitHub Copilot in ``database.rs``:<br>
+<b>Using GitHub Copilot in ``database.rs``:</b><br>
 1. Structuring CRUD Operations:<br>
 Scenario: Unsure about the optimal structure and best practices for CRUD functions with SQLite in Rust.<br>
 With Copilot: GitHub Copilot provided adaptable templates for CRUD operations, which were tailored to our specific requirements for SQLite database interactions.<br><br>
