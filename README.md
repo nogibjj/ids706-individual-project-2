@@ -1,5 +1,7 @@
 # Rust CLI Binary with SQLite
 
+![Rust CLI](https://github.com/nogibjj/ids706-individual-project-2/blob/main/.github/workflows/rust_build.yml/badge.svg)
+
 ## 🛠️ <u>Rust</u> Source Code
 
 * ``my_project/src/database.rs`` - This Rust code orchestrates database activities, enabling the program to interact with an SQLite database for tasks like table <u>creation</u>🔨, data <u>insertion</u>📌, <u>reading</u>🔍, <u>updating</u>🔄, and <u>deleting</u>🗑️.<br>
