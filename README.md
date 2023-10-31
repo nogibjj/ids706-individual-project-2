@@ -1,1 +1,1 @@
-# ids706-individual-project-2
+# Rust CLI Binary with SQLite
