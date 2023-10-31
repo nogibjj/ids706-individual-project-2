@@ -3,7 +3,7 @@
 ## 🛠️ <u>Rust</u> Source Code
 
 * ``my_project/src/database.rs`` - This Rust code orchestrates database activities, enabling the program to interact with an SQLite database for tasks like table <u>creation</u>🔨, data <u>insertion</u>📌, <u>reading</u>🔍, <u>updating</u>🔄, and <u>deleting</u>🗑️.<br>
-* ``my_project/src/main.rs`` - This Rust code acts as the entry point, interpreting user inputs from the command line and directing them to the corresponding database functions in ``database.rs``. 🚀 <br><br>
+* ``my_project/src/main.rs`` - This Rust code acts as the entry point, interpreting user inputs from the command line and directing them to the corresponding database functions in ``database.rs``. 🚀 <br><br> 
 
 ## 🧑‍💻 Usage of <u>Github CoPilot</u>
 
